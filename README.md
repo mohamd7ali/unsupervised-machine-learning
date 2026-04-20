@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning Project
+# Unsupervised Machine Learning Projects
 
 This repository provides hands-on implementations and visualizations of popular unsupervised machine learning algorithms, including Hierarchical Clustering, DBSCAN, and K-Means for data compression. The project is structured as a collection of Jupyter Notebooks, each focusing on a specific algorithm, with clear explanations, code, and visual outputs.
 
@@ -14,7 +14,7 @@ This repository provides hands-on implementations and visualizations of popular 
 	- `data.mat`: Example dataset used in the notebook.
 	- `README.md`: Details specific to K-Means compression.
 
-- **Hierarchical-Clustering**
+- **Hierarchical-Clustering/**
 	- `HierarchicalClustering.ipynb`: Comprehensive notebook on hierarchical clustering, including dendrograms, silhouette analysis, and application to the Iris dataset.
 	- `README.md`: Details specific to hierarchical clustering.
 
